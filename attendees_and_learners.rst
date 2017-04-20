@@ -12,6 +12,8 @@ KISR Django Workshop, 4th April 2017
 ------------------------------------
 * Aziz Alsaffar https://github.com/octowl
 
+*Jumanah Al-Jassim https://github.com/jjassim/
+
 Pycon Zimbabwe in Harare, 24th November 2016
 ---------------------------------------------
 * Bornwell Matembudze https://github.com/bornie21
