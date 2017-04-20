@@ -12,6 +12,7 @@ KISR Django Workshop, 4th April 2017
 ------------------------------------
 * Aziz Alsaffar https://github.com/octowl
 * Mariam AlDehani https://github.com/mdehani
+* Mr Potato Head https://github.com/patata
 
 Pycon Zimbabwe in Harare, 24th November 2016
 ---------------------------------------------
