@@ -1,4 +1,4 @@
-####################
+﻿####################
 Attendees & learners
 ####################
 
@@ -7,6 +7,9 @@ or followed the tutorial in their own time.
 
 Workshops
 =========
+
+MY MESS -> ^^____^^
+              \/
 
 KISR Django Workshop, 4th April 2017
 ------------------------------------
