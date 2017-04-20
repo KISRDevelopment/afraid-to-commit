@@ -8,6 +8,10 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
+KISR Django Workshop, 4th April 2017
+------------------------------------
+* Aziz Alsaffar https://github.com/octowl
+
 Pycon Zimbabwe in Harare, 24th November 2016
 ---------------------------------------------
 * Bornwell Matembudze https://github.com/bornie21
